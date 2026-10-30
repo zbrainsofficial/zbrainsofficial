@@ -46,7 +46,8 @@
       <h3 align="center">🪟 <a href="https://github.com/zbrainsofficial/win-pulse-hud">WinPulse HUD</a></h3>
       <p align="center">
         <b>React 19 + TypeScript 5.4 + C++20 Win32</b><br/>
-        Ultra-modern Windows performance HUD with Fluent Glassmorphism interface, real-time process monitoring, and kernel anomaly detection.
+        Ultra-modern Windows performance HUD with Fluent Glassmorphism interface, real-time process monitoring, and kernel anomaly detection.<br/>
+        <a href="https://zbrainsofficial.github.io/win-pulse-hud/"><b>🌐 Live Online Demo</b></a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Platform-Windows_11-blue" />
@@ -108,5 +109,5 @@
 
 <p align="center">
   <i>⚡ Committed to building resilient, high-speed, and secure software systems.</i><br/>
-  <b>© 2026 Z-Brains. All open-source contributions released under the MIT License.</b>
+  <sub>Architected & Engineered by <b>Zaigham Ali Ashraf</b> (0321-6314020) • Z-Brains Systems</sub>
 </p>
