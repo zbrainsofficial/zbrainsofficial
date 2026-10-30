@@ -79,6 +79,46 @@
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">⚡ <a href="https://github.com/zbrainsofficial/krypton-cache-engine">Krypton Cache Engine</a></h3>
+      <p align="center">
+        <b>C++20 Core + Node.js (1.6M+ ops/sec)</b><br/>
+        Sharded in-memory key-value store with LRU eviction, monotonic TTL expiration, WAL snapshots, and Fluent Glassmorphism HUD.<br/>
+        <a href="https://zbrainsofficial.github.io/krypton-cache-engine/"><b>🌐 Live Online Demo</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Speed-1.6M_ops%2Fs-brightgreen" />
+        <img src="https://img.shields.io/badge/Standard-C%2B%2B20-blue" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ <a href="https://github.com/zbrainsofficial/nexa-logics-route">Nexa Logics Route</a></h3>
+      <p align="center">
+        <b>Ultra-Fast Zero-Dependency HTTP Router</b><br/>
+        High-throughput API Gateway router with dynamic URL params, route groups, rate-limiting, CORS, and live interactive API playground.<br/>
+        <a href="https://zbrainsofficial.github.io/nexa-logics-route/"><b>🌐 Live Online Demo</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Router-Zero_Deps-purple" />
+        <img src="https://img.shields.io/badge/Status-Verified-success" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 <a href="https://github.com/zbrainsofficial/cypher-net-scanner">CypherNet Scanner</a></h3>
+      <p align="center">
+        <b>Network Recon & Security Scanner</b><br/>
+        Multi-threaded TCP port scanner, DNS records resolver, HTTP security header auditor, and vulnerability fingerprinting suite.<br/>
+        <a href="https://zbrainsofficial.github.io/cypher-net-scanner/"><b>🌐 Live Online Demo</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Recon-TCP_Scanner-critical" />
+        <img src="https://img.shields.io/badge/Security-A%2B_Auditor-blue" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">☁️ <a href="https://github.com/zbrainsofficial/auto-project-forge">Auto Project Forge</a></h3>
       <p align="center">
         <b>Autonomous 24/7 Cloud Autopilot</b><br/>
@@ -87,6 +127,17 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Cloud-GitHub_Actions-orange" />
         <img src="https://img.shields.io/badge/Status-Active_24%2F7-brightgreen" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 <a href="https://github.com/zbrainsofficial/nexus-ai-studio">Nexus AI Studio</a></h3>
+      <p align="center">
+        <b>Modern AI Workflow & Prompt Studio</b><br/>
+        Next-generation AI prompt engineering workbench with dark glassmorphism interface, model telemetry, and export pipelines.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Studio_Workbench-blueviolet" />
+        <img src="https://img.shields.io/badge/UI-Fluent_Glass-purple" />
       </p>
     </td>
   </tr>
