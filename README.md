@@ -1,12 +1,12 @@
 # Hi there, I'm Z-Brains 👋 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=220&section=header&text=Z-BRAINS%20SYSTEMS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20C%2B%2B%20Kernel%20%7C%20Windows%20%7C%20Mobile%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=220&section=header&text=Z-BRAINS%20SYSTEMS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20React%2019%20%2B%20TypeScript%20%7C%20C%2B%2B%20Kernel%20%7C%20Cybersecurity%20%7C%20Cloud&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/zbrainsofficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=High-Performance+C%2B%2B20+Kernel+Systems;Ultra-Modern+Windows+Apps+(React+19+%2B+TypeScript);Zero-Knowledge+Cybersecurity+Tooling;Cross-Platform+Mobile+Apps+(React+Native);Autonomous+AI+%26+Cloud+Autopilot+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Modern+Full-Stack+Platforms+(React+19+%2B+TypeScript+5.4);High-Performance+C%2B%2B20+Kernel+Systems;NEXA-LOGICS+Zero-Dependency+API+Gateways;Cross-Platform+Mobile+Apps+(React+Native);Zero-Knowledge+Cybersecurity+Tooling" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,22 +15,21 @@
 ## ⚡ Technical Arsenal & Core Competencies
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <br/>
-  <!-- Frameworks & Ecosystems -->
+  <!-- Modern Frontend & Languages -->
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript_5.4-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite_5-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br/>
+  <!-- Mobile & Backend -->
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_11_Win32-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <br/>
-  <!-- Security & DevOps -->
   <img src="https://img.shields.io/badge/Cyber_Security-AES--256--GCM-critical?style=for-the-badge&logo=shield" />
+  <br/>
+  <!-- DevOps & Automation -->
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
@@ -43,22 +42,48 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">⚡ <a href="https://github.com/zbrainsofficial/pulse-stack-platform">PulseStack Platform</a></h3>
+      <p align="center">
+        <b>React 19 + TypeScript 5.4 + Tailwind CSS + Vite</b><br/>
+        Enterprise cloud telemetry & microservices observability platform with strict component hierarchy and live telemetry polling.<br/>
+        <a href="https://zbrainsofficial.github.io/pulse-stack-platform/"><b>🌐 Live Online Demo</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stack-React_19_%2B_TS-blue" />
+        <img src="https://img.shields.io/badge/Styling-Tailwind_3.4-teal" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 <a href="https://github.com/zbrainsofficial/nexa-logics-route">NEXA-LOGICS Route</a></h3>
+      <p align="center">
+        <b>Zero-Dependency API Gateway & Router</b><br/>
+        Ultra-fast HTTP pattern matching engine, route groups, sliding-window rate limiting (200 req/min), CORS, and JWT auth guard.<br/>
+        <a href="https://zbrainsofficial.github.io/nexa-logics-route/"><b>🌐 Live Route Playground</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Engine-Zero_Deps-brightgreen" />
+        <img src="https://img.shields.io/badge/Latency-Sub--ms-orange" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🪟 <a href="https://github.com/zbrainsofficial/win-pulse-hud">WinPulse HUD</a></h3>
       <p align="center">
-        <b>React 19 + TypeScript 5.4 + C++20 Win32</b><br/>
-        Ultra-modern Windows performance HUD with Fluent Glassmorphism interface, real-time process monitoring, and kernel anomaly detection.<br/>
-        <a href="https://zbrainsofficial.github.io/win-pulse-hud/"><b>🌐 Live Online Demo</b></a>
+        <b>React 19 + TypeScript + Native C++20 Win32</b><br/>
+        Modern Windows performance HUD with Fluent Glassmorphism interface, real-time process monitoring, and kernel anomaly detection.<br/>
+        <a href="https://zbrainsofficial.github.io/win-pulse-hud/"><b>🌐 Live Online HUD</b></a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Platform-Windows_11-blue" />
-        <img src="https://img.shields.io/badge/UI-Fluent_Glass-purple" />
+        <img src="https://img.shields.io/badge/Core-C%2B%2B20-purple" />
       </p>
     </td>
     <td width="50%">
       <h3 align="center">📱 <a href="https://github.com/zbrainsofficial/shield-guard-mobile">ShieldGuard Mobile</a></h3>
       <p align="center">
         <b>React Native / Expo + PWA</b><br/>
-        Cross-platform mobile privacy and security posture auditor with permission vulnerability scanner, telemetry analysis, and dark mode UI.
+        Cross-platform mobile privacy and security posture auditor with permission vulnerability scanner and dark mode UI.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Mobile-Android_%7C_iOS-success" />
@@ -68,76 +93,26 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🤖 <a href="https://github.com/zbrainsofficial/nexus-ai-studio">Nexus AI Studio</a></h3>
+      <p align="center">
+        <b>Full-Stack React 19 + Node.js REST API</b><br/>
+        AI prompt engineering studio & multi-model playground with token budgeting and streaming responses.<br/>
+        <a href="https://zbrainsofficial.github.io/nexus-ai-studio/"><b>🌐 Live Studio Demo</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Multi--Model-purple" />
+        <img src="https://img.shields.io/badge/Stack-Full--Stack-blue" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🛡️ <a href="https://github.com/zbrainsofficial/sentinel-vault-cli">SentinelVault CLI</a></h3>
       <p align="center">
         <b>Zero-Knowledge Cryptography</b><br/>
-        Production-ready authenticated AES-256-GCM symmetric file encryption, PBKDF2 100k key derivation, and CSPRNG entropy analyzer.
+        Authenticated AES-256-GCM symmetric file encryption, PBKDF2 100k key derivation, and CSPRNG entropy analyzer.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Security-AES--256--GCM-green" />
         <img src="https://img.shields.io/badge/Zero_Deps-Verified-blue" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ <a href="https://github.com/zbrainsofficial/krypton-cache-engine">Krypton Cache Engine</a></h3>
-      <p align="center">
-        <b>C++20 Core + Node.js (1.6M+ ops/sec)</b><br/>
-        Sharded in-memory key-value store with LRU eviction, monotonic TTL expiration, WAL snapshots, and Fluent Glassmorphism HUD.<br/>
-        <a href="https://zbrainsofficial.github.io/krypton-cache-engine/"><b>🌐 Live Online Demo</b></a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Speed-1.6M_ops%2Fs-brightgreen" />
-        <img src="https://img.shields.io/badge/Standard-C%2B%2B20-blue" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ <a href="https://github.com/zbrainsofficial/nexa-logics-route">Nexa Logics Route</a></h3>
-      <p align="center">
-        <b>Ultra-Fast Zero-Dependency HTTP Router</b><br/>
-        High-throughput API Gateway router with dynamic URL params, route groups, rate-limiting, CORS, and live interactive API playground.<br/>
-        <a href="https://zbrainsofficial.github.io/nexa-logics-route/"><b>🌐 Live Online Demo</b></a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Router-Zero_Deps-purple" />
-        <img src="https://img.shields.io/badge/Status-Verified-success" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 <a href="https://github.com/zbrainsofficial/cypher-net-scanner">CypherNet Scanner</a></h3>
-      <p align="center">
-        <b>Network Recon & Security Scanner</b><br/>
-        Multi-threaded TCP port scanner, DNS records resolver, HTTP security header auditor, and vulnerability fingerprinting suite.<br/>
-        <a href="https://zbrainsofficial.github.io/cypher-net-scanner/"><b>🌐 Live Online Demo</b></a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Recon-TCP_Scanner-critical" />
-        <img src="https://img.shields.io/badge/Security-A%2B_Auditor-blue" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">☁️ <a href="https://github.com/zbrainsofficial/auto-project-forge">Auto Project Forge</a></h3>
-      <p align="center">
-        <b>Autonomous 24/7 Cloud Autopilot</b><br/>
-        GitHub Actions CI/CD engine that automatically synthesizes, verifies, and publishes full-stack software architectures across all domains.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Cloud-GitHub_Actions-orange" />
-        <img src="https://img.shields.io/badge/Status-Active_24%2F7-brightgreen" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 <a href="https://github.com/zbrainsofficial/nexus-ai-studio">Nexus AI Studio</a></h3>
-      <p align="center">
-        <b>Modern AI Workflow & Prompt Studio</b><br/>
-        Next-generation AI prompt engineering workbench with dark glassmorphism interface, model telemetry, and export pipelines.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI-Studio_Workbench-blueviolet" />
-        <img src="https://img.shields.io/badge/UI-Fluent_Glass-purple" />
       </p>
     </td>
   </tr>
